@@ -1,0 +1,70 @@
+/* Estilo Geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  /* Container Principal */
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Títulos */
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #444;
+  }
+  
+  .section h2 {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* Destaque */
+  .highlight {
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-left: 4px solid #4CAF50;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Caixa de Informações */
+  .info-box {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  .info-box h3 {
+    margin: 0 0 10px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .info-box .fields {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+  
+  /* Rodapé */
+  .footer {
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+    margin-top: 20px;
+  }
+  
